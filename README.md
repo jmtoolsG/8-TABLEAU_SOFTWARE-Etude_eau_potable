@@ -14,13 +14,16 @@ Ces nouveaux financements, s’ils sont accordés par le bailleur, permettront d
   - Une vue globale avec des indicateurs mondiaux
   - Une vue continentale avec les indicateurs du continent choisi
   - Une vue nationale avec les indicateurs du pays choisi
+  
 - Générer des graphiques adaptés aux types de données
+
 - Paramétrer le dashboard en fonction des éléments
   - Définir les types de variables
   - Classer les variables entre mesures et dimensions
   - Créer des champs calculés avec le langage adéquate
   - Filtre les résultats quantitatifs et qualitatifs
   - Créer des agrégations sur les mesures et dimensions
+  
 - Synthétiser des résultats à destination d'un client
   - Créer une histoire Tableau
 
